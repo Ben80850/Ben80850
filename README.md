@@ -12,5 +12,5 @@ If you ever want to contact me for an assignment, here are the networks on which
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/benjamin-s-08a572227/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/benjamin-s-08a572227/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![img_contact](./img/globe-light.svg)](mailto:benjamisara329@gmail.com)
-[![img_contact](./img/globe-dark.svg)](mailto:benjamisara329@gmail.com)
+[![img_contact](./img/globe-light.svg)](mailto:benjamisara329@gmail.com#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](mailto:benjamisara329@gmail.com#gh-dark-mode-only)
